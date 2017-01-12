@@ -351,6 +351,7 @@
 				CODE_SIGN_ENTITLEMENTS = TestStuff/TestStuff.entitlements;
 				DEVELOPMENT_TEAM = J2C764CY4K;
 				INFOPLIST_FILE = TestStuff/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bio.chase.TestStuff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -366,6 +367,7 @@
 				CODE_SIGN_ENTITLEMENTS = TestStuff/TestStuff.entitlements;
 				DEVELOPMENT_TEAM = J2C764CY4K;
 				INFOPLIST_FILE = TestStuff/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bio.chase.TestStuff;
 				PRODUCT_NAME = "$(TARGET_NAME)";

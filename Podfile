@@ -7,5 +7,6 @@ target 'TestStuff' do
 
   # Pods for TestStuff
 pod 'Firebase/Core'
+pod 'Firebase/Messaging'
 
 end
